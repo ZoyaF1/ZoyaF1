@@ -7,7 +7,7 @@
 ## Projects
 | Project | Description | Tech |
 |---|---|---|
-| [LoopedIn](https://github.com/link-to-looped-in) | A web platform connecting students, campus orgs, and sponsors | React, JavaScript, JSON, Git |
+| [LoopedIn](https://github.com/safiyyah976/sparkhacks2026) | A web platform connecting students, campus orgs, and sponsors | React, JavaScript, JSON, Git |
 <!--
 **ZoyaF1/ZoyaF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
