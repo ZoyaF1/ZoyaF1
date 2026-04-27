@@ -1,8 +1,8 @@
 ## Hi, I'm Zoya 👋 a Computer Science student at UIC specializing in Software Engineering, with a minor in Political Science. I'm passionate about the intersection of technology and law, particularly Legal Tech and Patent Law.
 
-🔭 I’m currently working on LoopedIn, a React web platform connecting students, campus orgs, and sponsors built at SparkHacks 2026
-🌱 I’m currently learning learning data structures & algorithms, and deepening my skills in React and Python
-👯 I’m looking to collaborate on projects at the intersection of technology, law, and social impact
+- 🔭 I’m currently working on LoopedIn, a React web platform connecting students, campus orgs, and sponsors built at SparkHacks 2026
+- 🌱 I’m currently learning learning data structures & algorithms, and deepening my skills in React and Python
+- 👯 I’m looking to collaborate on projects at the intersection of technology, law, and social impact
 <!--
 **ZoyaF1/ZoyaF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
