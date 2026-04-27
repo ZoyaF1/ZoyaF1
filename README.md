@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on LoopedIn, a React web platform connecting students, campus orgs, and sponsors built at SparkHacks 2026
 - 🌱 I’m currently learning learning data structures & algorithms, and deepening my skills in React and Python
 - 👯 I’m looking to collaborate on projects at the intersection of technology, law, and social impact
+
+## Projects
+| Project | Description | Tech |
+|---|---|---|
+| [LoopedIn](https://github.com/link-to-looped-in) | A web platform connecting students, campus orgs, and sponsors | React, JavaScript, JSON, Git |
 <!--
 **ZoyaF1/ZoyaF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
